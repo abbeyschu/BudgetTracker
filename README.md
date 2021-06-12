@@ -6,10 +6,9 @@ The goal of this project was to create a budget tracker application that allows 
 ## Installation
 Visit this link to view the app: https://tracker-budget-2021.herokuapp.com/ 
 
-## Instructions
-
 
 ## Screenshots
+Budget Tracker Layout:
 
 ![Tracker screenshot](./public/images/tracker.png)
 
